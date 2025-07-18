@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #007bff;
+}
+::selection{
+    color: #fff;
+    background: #007bff;
+}
+
+.start_btn
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+.start_btn button{
+    font-size: 25px;
+    font-weight: 500;
+    color: #007bff;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #fff;
+    cursor: pointer;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: rgb(10, 108, 236);
+  text-align: center;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: aqua;
+}
+
+.quiz-box {
+  margin-top: 30px;
+}
+
+.quiz-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.quiz-box li {
+  margin: 10px 0;
+}
+
+.quiz-box button {
+  padding: 8px 16px;
+  background-color: green;
+}
+
+.hidden {
+  display: none;
+}

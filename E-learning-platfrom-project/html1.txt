@@ -1,0 +1,120 @@
+                                                   
+                                   welcome to Html tutorial
+
+Html introduction
+
+        HTML is the standard markup language for creating Web pages.
+
+What is HTML?
+
+     •	HTML stands for Hyper Text Markup Language
+     •	HTML is the standard markup language for creating Web pages
+     •	HTML describes the structure of a Web page
+     •	HTML consists of a series of elements
+     •	HTML elements tell the browser how to display the content
+     •	HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+Basic HTML page
+
+         <!DOCTYPE html>                           //tells browser you are using HTMLS
+            <html>                                        //root of an html document
+              <head>                                          // container for metadata  
+                <title>My first page</title>           //page title
+             </head>
+             <body>                          //contains all data rendered by the browser
+                <p>Hello world</p>    //paragraph tag
+            </body>
+        </html>
+
+Example explained
+
+      •	The <!DOCTYPE html> declaration defines that this document is an HTML5 document.
+
+      •	The <html> element is the root element of an HTML page.
+
+      •	The <head> element contains meta information about the HTML page.
+
+      •	The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab).
+
+      •	The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs,images, hyperlinks, tables, lists, etc.         
+
+     •	The <h1> element defines a large heading.
+
+     •	The <p> element defines a paragraph.
+
+HTML Tag
+     •	A container for some content or other HTML tags.
+     •	For example: <p>THIS IS A PARAGRAPH</p>
+     •	HTML tag is not case sensitive.
+     •	For example:-   <html> = <HTML>.
+
+Comments in HTML
+      •	This is part of code that should not be parsed.
+      •	Syntax:- <!—This is an HTML comment-->
+      •	Ctrl+/:- select line a convert in comment.
+
+Basic HTML Tags
+   
+      i)Html attributes:-
+
+            •Attributes are used to add more information to the tag.
+            •For example:-<html lang=”en”>(lang=language,en=English)
+     ii)Heading Tag:-
+            •	Used to display heading in html.
+            •	For example:-  h1,h2,h3,h4   (h1=most important ,h6=least important)
+            •	<h1>hello</h1>
+    iii)Anchor Tag:-
+            •	Used to add links to your page.
+            •	For example:-  <a href=https://google.com>Google</a>
+    iv)Image Tag:-
+           •	Used to add image to your page.
+           •	Syntax:  <img src=”url” alt=”altertag”>
+           •	For example:- <img src=”/image.png” alt=”random image”>
+    v)Break line <br> tag:-
+           •	Used to add next line(line breaks) to your page.
+           •	For example: <br> 
+   vi)Bold, Italic & underline Tags:-
+           •	Used to highlight text in your page.
+           •	<b>Bold</b>
+           •	<i>italic</i>
+           •	<u>underline</u>
+  vii)Big & Small Tags:-
+            • Used to display big & small text on your page.
+            • <big> Big </big>
+            • <small> Small </small>
+  vii) Hr Tag:-
+           • Used to display a horizontal ruler, used to separate content.
+           • <hr>   
+  ix)Subscript & Superscript Tag:-
+          • Used to display a horizontal ruler , used to separate content.
+          • <sub> subscript<sub>
+               For example:-  H2o
+          • <sup>Superscript</sup>
+               For example:- A n+B
+
+  x)Pre tag:-
+         • Used to display text as it is (without ignoring spaces & next line)
+         •  For example:-  <pre> this  Is a simple  Text.   </pre>
+
+Html attributes
+
+         • The href attribute of <a> specifies the URL of the page the link goes to.
+         • The src attribute of <img> specifies the path to the image to be displayed.
+         • The width and height attributes of <img> provide size information for images.
+         • The alt attribute of <img> provides an alternate text for an image.
+         •The style attribute is used to add styles to an element, such as color, font, size,and more.  
+                       
+         • The lang attribute of the <html> tag declares the language of the Web page.
+         • The title attribute defines some extra information about an element.
+
+
+ Html styles
+      
+       • The html style attributes is used to add styles to an element,such as color,font,size,and more.
+       • Syntax:-  <tagname style="property:value;">
+
+ Page layout Techniques
+     •	Using semantic tags for layout.
+     •	Using the right tags.
+     •	For example:-  <header>,<main>
+   1)
