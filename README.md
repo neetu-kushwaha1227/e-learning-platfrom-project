@@ -18,7 +18,7 @@
 </ul>
 
 ## How to Run the Project
-### 1. Clone the Repository
-## 2.Import the MySQL Database
-## 3.Configure the Database Connection
-## 4.Run the Project
+ 1. Clone the Repository
+ 2.  2.Import the MySQL Database
+ 3.Configure the Database Connection
+ 4.Run the Project
