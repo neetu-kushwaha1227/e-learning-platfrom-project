@@ -10,7 +10,7 @@
   <li>Data stored in MySQL database</li>
 </ul>
 
-##Tech Stack
+## Tech Stack
 <ul style="list-style-type⚫">
   <li>Frontend:- HTML,CSS,JavaSCript</li>
   <li>Backend:- PHP</li>
@@ -18,8 +18,9 @@
 </ul>
 
 ## How to Run the Project
-
- 1. Clone the Repository
- 2.Import the MySQL Database
- 3.Configure the Database Connection
- 4.Run the Project
+<ol>
+ <li>1. Clone the Repository</li>
+ <li>2.Import the MySQL Database</li>
+ <li>3.Configure the Database Connection</li>
+ <li>4.Run the Project</li>
+</ol>
