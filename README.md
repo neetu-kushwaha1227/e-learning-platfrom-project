@@ -12,7 +12,7 @@
 
 ## Tech Stack
 <ul style="list-style-type⚫">
-  <li>Frontend:- HTML,CSS,JavaSCript</li>
+  <li>Frontend:- HTML, CSS, JavaScript</li>
   <li>Backend:- PHP</li>
   <li>Database:- MySQL</li>
 </ul>
