@@ -17,7 +17,7 @@
   <li>Database:- MySQL</li>
 </ul>
 
-## How to Run the Project
+## How to Run the Project<br>
  1. Clone the Repository<br>
  2.Import the MySQL Database<br>
  3.Configure the Database Connection<br>
